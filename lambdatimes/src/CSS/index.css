@@ -189,13 +189,14 @@ body {
 	}
 }
 .tabs .topics {
+	width: 80%;
 	display: flex;
-	justify-content: none;
+	justify-content: space-between;
 	align-items: center;
 	flex-direction: row;
 }
 .tabs .topics .title {
-	font-size: 12px;
+	font-size: 18px;
 	letter-spacing: 1px;
 	font-weight: bold;
 }
